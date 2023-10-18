@@ -30,7 +30,6 @@
 - [About](#about)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
-  - [How to](#how-to)
 - [Issues and Discussions](#issues-and-discussions)
 - [Support](#support)
 - [Authors & contributors](#authors--contributors)
@@ -43,12 +42,7 @@
 
 ## About
 
-> **[?]**
-> Provide general information about your project here.
-> What problem does it (intend to) solve?
-> What is the purpose of your project?
-> Why did you undertake it?
-> You don't have to answer all the questions -- just the ones relevant to your project.
+Moving from interface design to code basics, building together a sample app
 
 <summary>Screenshots</summary>
 <br>
@@ -74,17 +68,7 @@
 
 2. Open the ```.xcodeproj``` file
 
-### How to
 
-1. Do Some...
-
-   ```sh
-   git clone https://github.com/developer-academy-unina/app-development-part-3
-   ```
-
-2. ...
-
-<br />
 
 ## Issues and Discussions
 
